@@ -37,29 +37,29 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=97+warren+st+new+york+city&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://www.google.com/maps/embed/v1/place?q=Los+Prados,+Santo+Domingo,+República+Dominicana&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                ADDRESS
+                Dirrección
               </h2>
               <p className="mt-1">
-                97 Warren St. <br />
-                New York, NY 10007
+                Santo Domingo , Distrito Nacional<br />
+                Republica Dominicana
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                EMAIL
+                Correo
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                reedbarger@email.com
+                miltongp26@hotmail.com o miltongp26@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                PHONE
+                Celular
               </h2>
-              <p className="leading-relaxed">123-456-7890</p>
+              <p className="leading-relaxed">829-602-9286</p>
             </div>
           </div>
         </div>
@@ -69,15 +69,16 @@ export default function Contact() {
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-            Hire Me
+            Contactame
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            Si quieres contactarme puedes escribir tu informacion solicitada en este formulario.
+            <br></br>
+            Nota: No soy freelancer
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
-              Name
+              Nombre o Nombre de Empresa
             </label>
             <input
               type="text"
@@ -89,7 +90,7 @@ export default function Contact() {
           </div>
           <div className="relative mb-4">
             <label htmlFor="email" className="leading-7 text-sm text-gray-400">
-              Email
+              Correo
             </label>
             <input
               type="email"
@@ -115,10 +116,17 @@ export default function Contact() {
           <button
             type="submit"
             className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-            Submit
+            Enviar
           </button>
         </form>
       </div>
+
+      <a HREF="https://twitter.com/MiltonGP26"> Twitter</a>
+      <a HREF="https://github.com/MiltonGarciaP"> GitHUB</a>
+      <a HREF="https://www.linkedin.com/in/milton-tarsian-garc%C3%ADa-payero-180431222/"> Linkelind</a>
+      <a HREF="https://www.instagram.com/gpayero_01/?hl=es-la"> Instagram</a>
+
+     <div></div>
     </section>
   );
 }

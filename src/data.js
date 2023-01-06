@@ -1,33 +1,33 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Proyecto Segundo Parcial Web",
+    subtitle: "CRUD FIREBASE",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Proyecto realizado en la materia de programación Web en Julio 2022 es un crud sencillo con un log in en firebase con boostrap",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://helpful-platypus-7e7540.netlify.app/index.html",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Proyecto Trabajo Final Programación II",
+    subtitle: "CRUD C# SQL Server",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Proyecto realizado en la meteria de programación II en Diciembre del 2021 es un crud a sql server con arquitectura multicapa",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/MiltonGarciaP/Final-Project-Programming-II-",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Tarea de Programación Web",
+    subtitle: "Juego de Memoria",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Proyecto realizado para la materia de programación web en Enero del 2022 es un juego de memoria hecho en JavaScript",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://frolicking-sprinkles-3ecf19.netlify.app/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Proyecto de Programación III",
+    subtitle: "E-Commerce",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Este proyecto fue realizado en grupo utilizando la metodologia Scrum y utilizamos ASP.NET MVC en el backend y React en el FrontEnd trabaje en el BackEnd",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
   },
@@ -36,25 +36,36 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "En el Instituto Tecnologico de las Americas me forme de Tecnico superior de software donde aprendí ya a programar a un nivel superior y aprender metodos y metodologias como las agiles",
+    name: "ITLA",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "En INFOTEP hice cursos de paquetes de oficinas basico y excel avanzado y tuve un conocimiento incial de programación ese curso nunca lo termine",
+    name: "INFOTEP",
   },
+  {
+    quote:
+      "En CISCO NETCAD tuve una certificacion en reparcacion en Computadoras como de conocimiento avanzado en estas mismas pero tambien cursos de lenguajes de programación como JavaScript ",
+    name: "CISCO",
+  },
+  {
+    quote:
+      "Aquí aprendí y aplique lo que es la metodología Agíl Scrum en toda la regla de la palabra en poniendolo en practiva en varios proyectos personales como educativos",
+    name: "CertiProf",
+  },
+  
+
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  ".NET (C#, ASP.NET , Windows Forms , Xamarin , Blazor y MAUI)",
+  "Database : SQL SERVER ,MYSQL , MONGODB y PostgresSQl",
+  "JavaSript",
+  "Git",
+  "Python",
+  "Java",
+  "Kotlin",
+  "Boostrap",
+  
 ];
