@@ -12,9 +12,9 @@ export default function Skills() {
             Habilidades &amp; Tecnologias
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            En este apartado encontrar las Habilidades pero tambien como conocimientos en tecnologias
-            cabe recalcar t recordar que mi expecialidad o mi mayor conocimientos son en la parte de las 
-            bibliotecas de .net
+          En este apartado se encuentran mis distintas habilidades y conocimientos en 
+          tecnologías concretas. Me destaco especialmente en la biblioteca .net 
+          donde mis conocimientos son avanzados y presento un alto desempeño
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

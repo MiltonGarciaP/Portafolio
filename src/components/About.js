@@ -7,13 +7,16 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hola , Soy Milton Garcia
-            <br className="hidden lg:inline-block" />Desarrollador de Software Backend
+            <br className="hidden lg:inline-block" /> Desarrollador de Software 
+            <br className="hidden lg:inline-block" /> BackEnd 
+            
           </h1>
           <p className="mb-7 leading-relaxed">
-            Soy un desarrollador de Software de 20 años que viven Santo Domingo, Republica Dominicana
+          Soy un desarrollador de Software de 20 años que viven Santo Domingo, República Dominicana
             soy tecnologo en Desarrollo de Software en el Instituto Tecnologico de las Americas (ITLA)
-            tengo  experiencia trabajando con diferentes tecnologias pero con la cual me siento comodo es
-            con la biblioteca de .net de microsoft con el lenguaje de programacion C# (ASP.NET , Windows Forms , Xamarin , Blazor y MAUI)
+            tengo experiencia trabajando 
+            con diferentes tecnologías, tengo un mayor desenvolvimiento y dominio con la 
+            biblioteca .net de microsoft con el lenguaje de programacion C# (ASP.NET , Windows Forms , Xamarin y Blazor)
           </p>
           <div className="flex justify-center">
             <a

@@ -3,7 +3,7 @@ export const projects = [
     title: "Proyecto Segundo Parcial Web",
     subtitle: "CRUD FIREBASE",
     description:
-      "Proyecto realizado en la materia de programación Web en Julio 2022 es un crud sencillo con un log in en firebase con boostrap",
+      "Proyecto realizado en la materia de programación Web en Julio 2022 es un crud sencillo con un log in en firebase con Bootstrap",
     image: "./project-1.gif",
     link: "https://helpful-platypus-7e7540.netlify.app/index.html",
   },
@@ -36,22 +36,22 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "En el Instituto Tecnologico de las Americas me forme de Tecnico superior de software donde aprendí ya a programar a un nivel superior y aprender metodos y metodologias como las agiles",
+      "En el Instituto Tecnológico de las Américas me formé de Técnico superior de software donde aprendí ya a programar a un nivel superior y aprender métodos y metodologías como las agiles",
     name: "ITLA",
   },
   {
     quote:
-      "En INFOTEP hice cursos de paquetes de oficinas basico y excel avanzado y tuve un conocimiento incial de programación ese curso nunca lo termine",
+      "En INFOTEP hice cursos de paquetes de oficinas básico y Excel avanzado y tuve un conocimiento inicial de programación ese curso nunca lo terminé",
     name: "INFOTEP",
   },
   {
     quote:
-      "En CISCO NETCAD tuve una certificacion en reparcacion en Computadoras como de conocimiento avanzado en estas mismas pero tambien cursos de lenguajes de programación como JavaScript ",
+      " En CISCO NETCAD tuve una certificación en reparación en Computadoras como de conocimiento avanzado en estas mismas, pero también cursos de lenguajes de programación como JavaScript",
     name: "CISCO",
   },
   {
     quote:
-      "Aquí aprendí y aplique lo que es la metodología Agíl Scrum en toda la regla de la palabra en poniendolo en practiva en varios proyectos personales como educativos",
+      "Aquí aprendí y apliqué lo que es la metodología Ágil Scrum en toda la regla de la palabra en poniéndolo en práctica en varios proyectos personales como educativos",
     name: "CertiProf",
   },
   
@@ -59,13 +59,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  ".NET (C#, ASP.NET , Windows Forms , Xamarin , Blazor y MAUI)",
-  "Database : SQL SERVER ,MYSQL , MONGODB y PostgresSQl",
+  ".NET (C#, ASP.NET , Windows Forms , Xamarin y Blazor)",
+  "Database : SQL SERVER y MYSQL",
   "JavaSript",
-  "Git",
-  "Python",
-  "Java",
-  "Kotlin",
-  "Boostrap",
+  "Git"
+
   
 ];
